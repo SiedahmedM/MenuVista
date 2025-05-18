@@ -1,0 +1,2356 @@
+{
+  "events": [
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_bio1oyzg65th70d3bvdqr_1747527360297",
+      "restaurantId": "sababa-falafel",
+      "duration": 813866,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:29:34.163Z",
+      "storedAt": "2025-05-18T00:29:34.686Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_bio1oyzg65th70d3bvdqr_1747527360297",
+      "restaurantId": "sababa-falafel",
+      "duration": 813865,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:29:34.162Z",
+      "storedAt": "2025-05-18T00:29:34.695Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_d526it2jy959sd1mn9a1ia_1747528176574",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:29:36.574Z",
+      "storedAt": "2025-05-18T00:29:36.598Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_ozwq11i6gcrb3xanmlfb_1747528176574",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:29:36.574Z",
+      "storedAt": "2025-05-18T00:29:36.600Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_d526it2jy959sd1mn9a1ia_1747528176574",
+      "restaurantId": "sababa-falafel",
+      "duration": 1032059,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:46:48.633Z",
+      "storedAt": "2025-05-18T00:46:49.161Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_d526it2jy959sd1mn9a1ia_1747528176574",
+      "restaurantId": "sababa-falafel",
+      "duration": 1032058,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:46:48.632Z",
+      "storedAt": "2025-05-18T00:46:49.170Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_mlbmoge5i71wthjejcjf2_1747529211413",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:46:51.413Z",
+      "storedAt": "2025-05-18T00:46:51.430Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_ns1pj92a6hl321pdkel56i_1747529211413",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:46:51.413Z",
+      "storedAt": "2025-05-18T00:46:51.433Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_h40lm59vkfd8lhhkfbzn6_1747529221786",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:47:01.786Z",
+      "storedAt": "2025-05-18T00:47:01.805Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_qoi7pw7a4qo8xiy5me2zq_1747529221787",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:47:01.787Z",
+      "storedAt": "2025-05-18T00:47:01.808Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_7mt9n58i1atj57abte1kxe_1747529327017",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 3840,
+        "screenHeight": 1984,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:48:47.017Z",
+      "storedAt": "2025-05-18T00:48:47.139Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_5mbsgudxfw3w6fk66sd7fa_1747529327083",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 3840,
+        "screenHeight": 1984,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:48:47.083Z",
+      "storedAt": "2025-05-18T00:48:47.141Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_5mbsgudxfw3w6fk66sd7fa_1747529327083",
+      "restaurantId": "sababa-falafel",
+      "duration": 26663,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:49:13.746Z",
+      "storedAt": "2025-05-18T00:49:13.934Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_5mbsgudxfw3w6fk66sd7fa_1747529327083",
+      "restaurantId": "sababa-falafel",
+      "duration": 26663,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:49:13.746Z",
+      "storedAt": "2025-05-18T00:49:13.936Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_5mbsgudxfw3w6fk66sd7fa_1747529327083",
+      "restaurantId": "sababa-falafel",
+      "duration": 26663,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:49:13.746Z",
+      "storedAt": "2025-05-18T00:49:13.939Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_5mbsgudxfw3w6fk66sd7fa_1747529327083",
+      "restaurantId": "sababa-falafel",
+      "duration": 26663,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:49:13.746Z",
+      "storedAt": "2025-05-18T00:49:13.941Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_5mbsgudxfw3w6fk66sd7fa_1747529327083",
+      "restaurantId": "sababa-falafel",
+      "duration": 26663,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:49:13.746Z",
+      "storedAt": "2025-05-18T00:49:13.943Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_5mbsgudxfw3w6fk66sd7fa_1747529327083",
+      "restaurantId": "sababa-falafel",
+      "duration": 26663,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:49:13.746Z",
+      "storedAt": "2025-05-18T00:49:14.018Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_4fc4np6rsjop4yw9hqmh_1747529354499",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 3840,
+        "screenHeight": 1984,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:49:14.499Z",
+      "storedAt": "2025-05-18T00:49:14.535Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_4fc4np6rsjop4yw9hqmh_1747529354499",
+      "restaurantId": "sababa-falafel",
+      "duration": 1750,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:49:16.249Z",
+      "storedAt": "2025-05-18T00:49:16.282Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_b72yc47lm5uswwu6c57bu8_1747529356364",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 3840,
+        "screenHeight": 1984,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:49:16.364Z",
+      "storedAt": "2025-05-18T00:49:16.382Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_ehrli55l3x0wrczxdt0ew_1747529361783",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 3840,
+        "screenHeight": 1984,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:49:21.783Z",
+      "storedAt": "2025-05-18T00:49:21.797Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_l2om7hyqqtlxoxjbiwtsmk_1747529361782",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 3840,
+        "screenHeight": 1984,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:49:21.782Z",
+      "storedAt": "2025-05-18T00:49:21.798Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_gzvxfkl8jypmvhjrl1ubl_1747529367770",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 3840,
+        "screenHeight": 1984,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:49:27.770Z",
+      "storedAt": "2025-05-18T00:49:27.786Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_da4vtfp7jtvrdj57o5qo9_1747529367771",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 3840,
+        "screenHeight": 1984,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:49:27.771Z",
+      "storedAt": "2025-05-18T00:49:27.787Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_da4vtfp7jtvrdj57o5qo9_1747529367771",
+      "restaurantId": "sababa-falafel",
+      "duration": 114948,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:51:22.719Z",
+      "storedAt": "2025-05-18T00:51:23.202Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_da4vtfp7jtvrdj57o5qo9_1747529367771",
+      "restaurantId": "sababa-falafel",
+      "duration": 114948,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:51:22.719Z",
+      "storedAt": "2025-05-18T00:51:23.211Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_da4vtfp7jtvrdj57o5qo9_1747529367771",
+      "restaurantId": "sababa-falafel",
+      "duration": 114948,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:51:22.719Z",
+      "storedAt": "2025-05-18T00:51:23.215Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_da4vtfp7jtvrdj57o5qo9_1747529367771",
+      "restaurantId": "sababa-falafel",
+      "duration": 114948,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:51:22.719Z",
+      "storedAt": "2025-05-18T00:51:23.217Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_da4vtfp7jtvrdj57o5qo9_1747529367771",
+      "restaurantId": "sababa-falafel",
+      "duration": 114947,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T00:51:22.718Z",
+      "storedAt": "2025-05-18T00:51:23.218Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_ailgsst2pvpsvep0n8hzyl_1747529486810",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 3840,
+        "screenHeight": 1984,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:51:26.810Z",
+      "storedAt": "2025-05-18T00:51:26.836Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_fb374jabaflzb1iutbhug_1747529486811",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 3840,
+        "screenHeight": 1984,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:51:26.811Z",
+      "storedAt": "2025-05-18T00:51:26.840Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_l5k8gj99w7ksfd1r3f959s_1747529506608",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:51:46.608Z",
+      "storedAt": "2025-05-18T00:51:46.642Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_upp8guns9op0jly49sg190e_1747529506607",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:51:46.607Z",
+      "storedAt": "2025-05-18T00:51:46.644Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_gt8ixc5xpkg1ouse8k5dk_1747529526850",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:52:06.850Z",
+      "storedAt": "2025-05-18T00:52:06.889Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_i4c1n1mbfg3mxvs88i4vw_1747529526851",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T00:52:06.851Z",
+      "storedAt": "2025-05-18T00:52:06.891Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_i4c1n1mbfg3mxvs88i4vw_1747529526851",
+      "restaurantId": "sababa-falafel",
+      "duration": 1436684,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:16:03.535Z",
+      "storedAt": "2025-05-18T01:16:04.134Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_i4c1n1mbfg3mxvs88i4vw_1747529526851",
+      "restaurantId": "sababa-falafel",
+      "duration": 1436601,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:16:03.452Z",
+      "storedAt": "2025-05-18T01:16:04.142Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_i4c1n1mbfg3mxvs88i4vw_1747529526851",
+      "restaurantId": "sababa-falafel",
+      "duration": 1436684,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:16:03.535Z",
+      "storedAt": "2025-05-18T01:16:04.145Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_i4c1n1mbfg3mxvs88i4vw_1747529526851",
+      "restaurantId": "sababa-falafel",
+      "duration": 1436684,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:16:03.535Z",
+      "storedAt": "2025-05-18T01:16:04.146Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_i4c1n1mbfg3mxvs88i4vw_1747529526851",
+      "restaurantId": "sababa-falafel",
+      "duration": 1436684,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:16:03.535Z",
+      "storedAt": "2025-05-18T01:16:04.149Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_i4c1n1mbfg3mxvs88i4vw_1747529526851",
+      "restaurantId": "sababa-falafel",
+      "duration": 1436684,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:16:03.535Z",
+      "storedAt": "2025-05-18T01:16:04.150Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_hwrgxa6oy4hh2rv525apm5_1747530975435",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:16:15.435Z",
+      "storedAt": "2025-05-18T01:16:15.466Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_pf92f9zjczbjpkus3et5o_1747530975434",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:16:15.434Z",
+      "storedAt": "2025-05-18T01:16:15.472Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_6d1jfjtg9yr3zxmukonmo_1747530980092",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:16:20.092Z",
+      "storedAt": "2025-05-18T01:16:20.126Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_zbnn6ap2rrc6a1zsh22t6e_1747530980092",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:16:20.092Z",
+      "storedAt": "2025-05-18T01:16:20.129Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_zbnn6ap2rrc6a1zsh22t6e_1747530980092",
+      "restaurantId": "sababa-falafel",
+      "itemId": "ribeye-pita",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T01:16:21.111Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T01:16:21.147Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_zbnn6ap2rrc6a1zsh22t6e_1747530980092",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T01:16:24.421Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T01:16:24.459Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_zbnn6ap2rrc6a1zsh22t6e_1747530980092",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T01:16:26.416Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T01:16:26.457Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_zbnn6ap2rrc6a1zsh22t6e_1747530980092",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-on-jerusalem-bread",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T01:16:28.296Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T01:16:28.328Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_gqjkvpq5oav9ykgr3k9wyg_1747530993931",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:16:33.931Z",
+      "storedAt": "2025-05-18T01:16:33.959Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_lsmvggzeklmk1hbvh8hwsp_1747530993932",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:16:33.932Z",
+      "storedAt": "2025-05-18T01:16:33.960Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_lsmvggzeklmk1hbvh8hwsp_1747530993932",
+      "restaurantId": "sababa-falafel",
+      "itemId": "ribeye-pita",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T01:16:34.930Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T01:16:34.969Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_lsmvggzeklmk1hbvh8hwsp_1747530993932",
+      "restaurantId": "sababa-falafel",
+      "duration": 160003,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:19:13.935Z",
+      "storedAt": "2025-05-18T01:19:13.977Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_lsmvggzeklmk1hbvh8hwsp_1747530993932",
+      "restaurantId": "sababa-falafel",
+      "duration": 160002,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:19:13.934Z",
+      "storedAt": "2025-05-18T01:19:13.979Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_lsmvggzeklmk1hbvh8hwsp_1747530993932",
+      "restaurantId": "sababa-falafel",
+      "duration": 160002,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:19:13.934Z",
+      "storedAt": "2025-05-18T01:19:13.980Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_lsmvggzeklmk1hbvh8hwsp_1747530993932",
+      "restaurantId": "sababa-falafel",
+      "duration": 160003,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:19:13.935Z",
+      "storedAt": "2025-05-18T01:19:14.026Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_lsmvggzeklmk1hbvh8hwsp_1747530993932",
+      "restaurantId": "sababa-falafel",
+      "duration": 160003,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:19:13.935Z",
+      "storedAt": "2025-05-18T01:19:14.028Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_lsmvggzeklmk1hbvh8hwsp_1747530993932",
+      "restaurantId": "sababa-falafel",
+      "duration": 160003,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:19:13.935Z",
+      "storedAt": "2025-05-18T01:19:14.029Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_ar1lbyvvev5z0doggl1nl_1747531155714",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:19:15.714Z",
+      "storedAt": "2025-05-18T01:19:15.745Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_9jkkefxgj7cy81vs61l7m_1747531155715",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:19:15.715Z",
+      "storedAt": "2025-05-18T01:19:15.749Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_9jkkefxgj7cy81vs61l7m_1747531155715",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T01:19:16.991Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T01:19:17.004Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_rilj9x2gxiicn29ns5c3hb_1747532056490",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:34:16.490Z",
+      "storedAt": "2025-05-18T01:34:16.957Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_f2c6qnddsv7v1l6sos6hk_1747532056794",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:34:16.794Z",
+      "storedAt": "2025-05-18T01:34:16.959Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_f2c6qnddsv7v1l6sos6hk_1747532056794",
+      "restaurantId": "sababa-falafel",
+      "duration": 2000,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:34:18.794Z",
+      "storedAt": "2025-05-18T01:34:18.910Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_f2c6qnddsv7v1l6sos6hk_1747532056794",
+      "restaurantId": "sababa-falafel",
+      "duration": 2001,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:34:18.795Z",
+      "storedAt": "2025-05-18T01:34:18.911Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_f2c6qnddsv7v1l6sos6hk_1747532056794",
+      "restaurantId": "sababa-falafel",
+      "duration": 2000,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:34:18.794Z",
+      "storedAt": "2025-05-18T01:34:18.913Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_f2c6qnddsv7v1l6sos6hk_1747532056794",
+      "restaurantId": "sababa-falafel",
+      "duration": 2000,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T01:34:18.794Z",
+      "storedAt": "2025-05-18T01:34:18.915Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_qxci8lx3nvfnl34faelu6_1747532059839",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:34:19.839Z",
+      "storedAt": "2025-05-18T01:34:19.895Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_gfxj98slexwor41b3j4sy_1747532067232",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:34:27.232Z",
+      "storedAt": "2025-05-18T01:34:27.260Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_3lxb2mca1cmhgvk1zht3o_1747532067232",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:34:27.232Z",
+      "storedAt": "2025-05-18T01:34:27.264Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_gfxj98slexwor41b3j4sy_1747532067232",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T01:34:36.755Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T01:34:36.801Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_gfxj98slexwor41b3j4sy_1747532067232",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T01:34:38.598Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T01:34:38.632Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_gfxj98slexwor41b3j4sy_1747532067232",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-on-jerusalem-bread",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T01:34:39.706Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T01:34:39.736Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_9x9vh0cv2zs1f24ceovm2vj_1747532368118",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:39:28.118Z",
+      "storedAt": "2025-05-18T01:39:28.224Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_o3yblkpq5vfr98qvqg2bri_1747532368117",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:39:28.117Z",
+      "storedAt": "2025-05-18T01:39:28.226Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_9x9vh0cv2zs1f24ceovm2vj_1747532368118",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-with-fried-veggies",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T01:39:29.436Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T01:39:29.465Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_62tyyddp3bgk5wmm3utsbj_1747532374173",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:39:34.173Z",
+      "storedAt": "2025-05-18T01:39:34.199Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_uagx9egay4n36fyqvq2xcr_1747532374173",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T01:39:34.173Z",
+      "storedAt": "2025-05-18T01:39:34.201Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_uagx9egay4n36fyqvq2xcr_1747532374173",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:28:49.458Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:28:51.141Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_uagx9egay4n36fyqvq2xcr_1747532374173",
+      "restaurantId": "sababa-falafel",
+      "itemId": "ribeye-pita",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:28:54.369Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:28:54.409Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_qhg1winqngb0csmct1db7_1747535346129",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:29:06.129Z",
+      "storedAt": "2025-05-18T02:29:06.208Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_3ljjix354m6qa3zar9tnzf_1747535346129",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:29:06.129Z",
+      "storedAt": "2025-05-18T02:29:06.210Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_fy2zgezlf4e5k5e6mee2rv_1747536218379",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:43:38.379Z",
+      "storedAt": "2025-05-18T02:43:38.729Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:43:38.473Z",
+      "storedAt": "2025-05-18T02:43:38.916Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "duration": 1306,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:43:39.779Z",
+      "storedAt": "2025-05-18T02:43:40.309Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "duration": 1306,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:43:39.779Z",
+      "storedAt": "2025-05-18T02:43:40.422Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "duration": 1306,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:43:39.779Z",
+      "storedAt": "2025-05-18T02:43:40.427Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "duration": 1307,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:43:39.780Z",
+      "storedAt": "2025-05-18T02:43:40.430Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "duration": 1307,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:43:39.780Z",
+      "storedAt": "2025-05-18T02:43:40.432Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "duration": 1306,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:43:39.779Z",
+      "storedAt": "2025-05-18T02:43:40.436Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "duration": 1307,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:43:39.780Z",
+      "storedAt": "2025-05-18T02:43:40.442Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "duration": 1307,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:43:39.780Z",
+      "storedAt": "2025-05-18T02:43:40.473Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "duration": 1307,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:43:39.780Z",
+      "storedAt": "2025-05-18T02:43:40.478Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "duration": 1307,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:43:39.780Z",
+      "storedAt": "2025-05-18T02:43:40.479Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_imh57vgnwofjtza80ezvb_1747536218473",
+      "restaurantId": "sababa-falafel",
+      "duration": 1307,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:43:39.780Z",
+      "storedAt": "2025-05-18T02:43:40.482Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_zkhcnm6oz7iaz2gsn4ld6_1747536223000",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:43:43.000Z",
+      "storedAt": "2025-05-18T02:43:43.067Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_zkhcnm6oz7iaz2gsn4ld6_1747536223000",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-with-fried-veggies",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:43:43.987Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:43:44.014Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_zkhcnm6oz7iaz2gsn4ld6_1747536223000",
+      "restaurantId": "sababa-falafel",
+      "itemId": "fire-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:43:45.164Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:43:45.189Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_l8fofb6phyd3jvbnuv1px8_1747536556823",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:49:16.823Z",
+      "storedAt": "2025-05-18T02:49:17.061Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_wo43fuc73olhokw7tz22i_1747536556824",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:49:16.824Z",
+      "storedAt": "2025-05-18T02:49:17.065Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_wo43fuc73olhokw7tz22i_1747536556824",
+      "restaurantId": "sababa-falafel",
+      "itemId": "ribeye-pita",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:49:18.012Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:49:18.045Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_wo43fuc73olhokw7tz22i_1747536556824",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-with-fried-veggies",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:49:20.802Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:49:20.843Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_wo43fuc73olhokw7tz22i_1747536556824",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:49:24.102Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:49:24.135Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_b12rl8m8955fzvu1dabja_1747536686357",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 353,
+        "screenHeight": 764,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:51:26.357Z",
+      "storedAt": "2025-05-18T02:51:26.386Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_svpu6aaxrpkffhdq7yefxq_1747536686357",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 353,
+        "screenHeight": 764,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:51:26.357Z",
+      "storedAt": "2025-05-18T02:51:26.388Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_svpu6aaxrpkffhdq7yefxq_1747536686357",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:51:35.147Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:51:35.367Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_zo7tulte09dbh5d29d2wgf_1747536758807",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:52:38.807Z",
+      "storedAt": "2025-05-18T02:52:38.902Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_nvmvraz5m598ywtd4xfp7f_1747536758808",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:52:38.808Z",
+      "storedAt": "2025-05-18T02:52:38.904Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_nvmvraz5m598ywtd4xfp7f_1747536758808",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:52:45.133Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:52:45.159Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_nvmvraz5m598ywtd4xfp7f_1747536758808",
+      "restaurantId": "sababa-falafel",
+      "itemId": "fire-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:57:38.893Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:57:39.060Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_nvmvraz5m598ywtd4xfp7f_1747536758808",
+      "restaurantId": "sababa-falafel",
+      "duration": 302085,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:57:40.893Z",
+      "storedAt": "2025-05-18T02:57:41.102Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_nvmvraz5m598ywtd4xfp7f_1747536758808",
+      "restaurantId": "sababa-falafel",
+      "duration": 302085,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:57:40.893Z",
+      "storedAt": "2025-05-18T02:57:41.104Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_nvmvraz5m598ywtd4xfp7f_1747536758808",
+      "restaurantId": "sababa-falafel",
+      "duration": 302085,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:57:40.893Z",
+      "storedAt": "2025-05-18T02:57:41.107Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_nvmvraz5m598ywtd4xfp7f_1747536758808",
+      "restaurantId": "sababa-falafel",
+      "duration": 302085,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:57:40.893Z",
+      "storedAt": "2025-05-18T02:57:41.109Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_nvmvraz5m598ywtd4xfp7f_1747536758808",
+      "restaurantId": "sababa-falafel",
+      "duration": 302085,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:57:40.893Z",
+      "storedAt": "2025-05-18T02:57:41.110Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_nvmvraz5m598ywtd4xfp7f_1747536758808",
+      "restaurantId": "sababa-falafel",
+      "duration": 302085,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:57:40.893Z",
+      "storedAt": "2025-05-18T02:57:41.146Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_nvmvraz5m598ywtd4xfp7f_1747536758808",
+      "restaurantId": "sababa-falafel",
+      "duration": 302085,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:57:40.893Z",
+      "storedAt": "2025-05-18T02:57:41.148Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_w651veywkbwomzrkq08mq_1747537061923",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:57:41.923Z",
+      "storedAt": "2025-05-18T02:57:41.998Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_q55lebvot1mpnrwp2uusr_1747537069233",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:57:49.233Z",
+      "storedAt": "2025-05-18T02:57:49.258Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_5z695lcn0yezwfg88a4k0t_1747537069233",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:57:49.233Z",
+      "storedAt": "2025-05-18T02:57:49.259Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_q55lebvot1mpnrwp2uusr_1747537069233",
+      "restaurantId": "sababa-falafel",
+      "itemId": "fire-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:57:50.075Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:57:50.114Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_13si65zll7ji2fwgtbgy95f_1747537073446",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:57:53.446Z",
+      "storedAt": "2025-05-18T02:57:53.472Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_smaq6saago915blk38ecb_1747537073447",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:57:53.447Z",
+      "storedAt": "2025-05-18T02:57:53.474Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_smaq6saago915blk38ecb_1747537073447",
+      "restaurantId": "sababa-falafel",
+      "duration": 63250,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:58:56.697Z",
+      "storedAt": "2025-05-18T02:58:57.248Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_smaq6saago915blk38ecb_1747537073447",
+      "restaurantId": "sababa-falafel",
+      "duration": 63250,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:58:56.697Z",
+      "storedAt": "2025-05-18T02:58:57.258Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_smaq6saago915blk38ecb_1747537073447",
+      "restaurantId": "sababa-falafel",
+      "duration": 63250,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:58:56.697Z",
+      "storedAt": "2025-05-18T02:58:57.262Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_smaq6saago915blk38ecb_1747537073447",
+      "restaurantId": "sababa-falafel",
+      "duration": 63250,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:58:56.697Z",
+      "storedAt": "2025-05-18T02:58:57.265Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_smaq6saago915blk38ecb_1747537073447",
+      "restaurantId": "sababa-falafel",
+      "duration": 63250,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:58:56.697Z",
+      "storedAt": "2025-05-18T02:58:57.266Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_h43hq9tk0xm6l6pc26rho_1747537142369",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:59:02.369Z",
+      "storedAt": "2025-05-18T02:59:02.390Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_njc8ey0jfk2854noq6bkq_1747537142369",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:59:02.369Z",
+      "storedAt": "2025-05-18T02:59:02.394Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_7swgytzv1v8puc8xdwohkb_1747537146117",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:59:06.117Z",
+      "storedAt": "2025-05-18T02:59:06.150Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_0nmyusrgh5dnc5ywtty1_1747537146118",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1920,
+        "screenHeight": 992,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:59:06.118Z",
+      "storedAt": "2025-05-18T02:59:06.153Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_0nmyusrgh5dnc5ywtty1_1747537146118",
+      "restaurantId": "sababa-falafel",
+      "itemId": "ribeye-pita",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T02:59:06.824Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T02:59:06.855Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_0nmyusrgh5dnc5ywtty1_1747537146118",
+      "restaurantId": "sababa-falafel",
+      "duration": 4180,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:59:10.298Z",
+      "storedAt": "2025-05-18T02:59:10.337Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_0nmyusrgh5dnc5ywtty1_1747537146118",
+      "restaurantId": "sababa-falafel",
+      "duration": 4181,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:59:10.299Z",
+      "storedAt": "2025-05-18T02:59:10.339Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_0nmyusrgh5dnc5ywtty1_1747537146118",
+      "restaurantId": "sababa-falafel",
+      "duration": 4180,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:59:10.298Z",
+      "storedAt": "2025-05-18T02:59:10.341Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_0nmyusrgh5dnc5ywtty1_1747537146118",
+      "restaurantId": "sababa-falafel",
+      "duration": 4181,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T02:59:10.299Z",
+      "storedAt": "2025-05-18T02:59:10.343Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_hfsqa22widgieds2877hv_1747537165171",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:59:25.171Z",
+      "storedAt": "2025-05-18T02:59:25.193Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_9z6nkon7p2qo07d1svnh_1747537165172",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T02:59:25.172Z",
+      "storedAt": "2025-05-18T02:59:25.197Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_xa1oqrjuo9mpeulp4ijlf_1747537282727",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:01:22.727Z",
+      "storedAt": "2025-05-18T03:01:22.884Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_0uqkbtic9r5ggjgh5pdy55q_1747537282726",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:01:22.726Z",
+      "storedAt": "2025-05-18T03:01:22.886Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_xa1oqrjuo9mpeulp4ijlf_1747537282727",
+      "restaurantId": "sababa-falafel",
+      "itemId": "ribeye-pita",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:01:24.349Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:01:24.380Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_c6xxfc7xuuoyjpk6nf3hwm_1747537306800",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:01:46.800Z",
+      "storedAt": "2025-05-18T03:01:46.831Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_i1bj5o953ismc8fk09j0aa_1747537306800",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:01:46.800Z",
+      "storedAt": "2025-05-18T03:01:46.833Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_i1bj5o953ismc8fk09j0aa_1747537306800",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:01:49.162Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:01:49.941Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_i1bj5o953ismc8fk09j0aa_1747537306800",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:01:54.525Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:01:54.550Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_i1bj5o953ismc8fk09j0aa_1747537306800",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:01:57.593Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:01:57.630Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_t7wgk39qfmtdp9dguxbzd_1747537330627",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:02:10.627Z",
+      "storedAt": "2025-05-18T03:02:10.735Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_70vvaaud7vdvokhswe5hh_1747537330714",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:02:10.714Z",
+      "storedAt": "2025-05-18T03:02:10.737Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_n3cnmvscfvtmoo7gakgdio_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:02:21.900Z",
+      "storedAt": "2025-05-18T03:02:21.924Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_zufzbbvo0cnh6wcqoxg35f_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:02:21.900Z",
+      "storedAt": "2025-05-18T03:02:21.925Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_xaozy4txwto2nbnm10bdhv_1747537665388",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:07:45.388Z",
+      "storedAt": "2025-05-18T03:07:45.442Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_xaozy4txwto2nbnm10bdhv_1747537665388",
+      "restaurantId": "sababa-falafel",
+      "itemId": "ribeye-pita",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:07:46.474Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:07:46.518Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_xaozy4txwto2nbnm10bdhv_1747537665388",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:07:52.110Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:07:52.143Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_n3cnmvscfvtmoo7gakgdio_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "duration": 334768,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:07:56.668Z",
+      "storedAt": "2025-05-18T03:07:56.692Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_n3cnmvscfvtmoo7gakgdio_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "duration": 334767,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:07:56.667Z",
+      "storedAt": "2025-05-18T03:07:56.693Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_n3cnmvscfvtmoo7gakgdio_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "duration": 334768,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:07:56.668Z",
+      "storedAt": "2025-05-18T03:07:56.741Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_n3cnmvscfvtmoo7gakgdio_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "duration": 334768,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:07:56.668Z",
+      "storedAt": "2025-05-18T03:07:56.742Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_n3cnmvscfvtmoo7gakgdio_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "duration": 334768,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:07:56.668Z",
+      "storedAt": "2025-05-18T03:07:56.745Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_n3cnmvscfvtmoo7gakgdio_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "duration": 334768,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:07:56.668Z",
+      "storedAt": "2025-05-18T03:07:56.746Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_n3cnmvscfvtmoo7gakgdio_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "duration": 334768,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:07:56.668Z",
+      "storedAt": "2025-05-18T03:07:56.753Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_n3cnmvscfvtmoo7gakgdio_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "duration": 334768,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:07:56.668Z",
+      "storedAt": "2025-05-18T03:07:56.865Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_n3cnmvscfvtmoo7gakgdio_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "duration": 334768,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:07:56.668Z",
+      "storedAt": "2025-05-18T03:07:56.866Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_xaozy4txwto2nbnm10bdhv_1747537665388",
+      "restaurantId": "sababa-falafel",
+      "duration": 11280,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:07:56.668Z",
+      "storedAt": "2025-05-18T03:07:56.868Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_n3cnmvscfvtmoo7gakgdio_1747537341900",
+      "restaurantId": "sababa-falafel",
+      "duration": 334768,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:07:56.668Z",
+      "storedAt": "2025-05-18T03:07:56.869Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_482571l1riye9b96l8l2zw_1747537677231",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:07:57.231Z",
+      "storedAt": "2025-05-18T03:07:57.253Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_482571l1riye9b96l8l2zw_1747537677231",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:07:58.766Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:07:58.804Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_482571l1riye9b96l8l2zw_1747537677231",
+      "restaurantId": "sababa-falafel",
+      "duration": 212562,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:11:29.793Z",
+      "storedAt": "2025-05-18T03:11:29.898Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_wyq2u18mzmc05651otdm_1747537890026",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:11:30.026Z",
+      "storedAt": "2025-05-18T03:11:30.054Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_wyq2u18mzmc05651otdm_1747537890026",
+      "restaurantId": "sababa-falafel",
+      "itemId": "ribeye-pita",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:11:31.824Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:11:31.853Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_wyq2u18mzmc05651otdm_1747537890026",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:11:37.108Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:11:37.147Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_wyq2u18mzmc05651otdm_1747537890026",
+      "restaurantId": "sababa-falafel",
+      "duration": 10670,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:11:40.696Z",
+      "storedAt": "2025-05-18T03:11:40.733Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_bizzg1atb35uuuv0e1o1i_1747537901856",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:11:41.856Z",
+      "storedAt": "2025-05-18T03:11:41.907Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_bizzg1atb35uuuv0e1o1i_1747537901856",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:11:42.861Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:11:42.894Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_bizzg1atb35uuuv0e1o1i_1747537901856",
+      "restaurantId": "sababa-falafel",
+      "duration": 1803,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:11:43.659Z",
+      "storedAt": "2025-05-18T03:11:43.696Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_o5mv37vuj4f7jbx5q9d2_1747537903782",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:11:43.782Z",
+      "storedAt": "2025-05-18T03:11:43.803Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_o5mv37vuj4f7jbx5q9d2_1747537903782",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:11:44.254Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:11:44.288Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_o5mv37vuj4f7jbx5q9d2_1747537903782",
+      "restaurantId": "sababa-falafel",
+      "duration": 4876,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:11:48.658Z",
+      "storedAt": "2025-05-18T03:11:48.692Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_7xuwpnup722b4zz0hjuio_1747537977847",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:12:57.847Z",
+      "storedAt": "2025-05-18T03:12:58.054Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_7xuwpnup722b4zz0hjuio_1747537977847",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:13:07.290Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:13:07.327Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_7xuwpnup722b4zz0hjuio_1747537977847",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:13:20.931Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:13:20.975Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_7xuwpnup722b4zz0hjuio_1747537977847",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:17:27.242Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:17:27.291Z"
+    },
+    {
+      "eventType": "session_end",
+      "sessionId": "mv_7xuwpnup722b4zz0hjuio_1747537977847",
+      "restaurantId": "sababa-falafel",
+      "duration": 271655,
+      "viewSequence": [],
+      "timestamp": "2025-05-18T03:17:29.502Z",
+      "storedAt": "2025-05-18T03:17:29.613Z"
+    },
+    {
+      "eventType": "session_start",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "deviceInfo": {
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "screenWidth": 1200,
+        "screenHeight": 859,
+        "isMobile": false
+      },
+      "timestamp": "2025-05-18T03:17:29.759Z",
+      "storedAt": "2025-05-18T03:17:29.788Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:17:31.308Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:17:31.341Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:17:32.986Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:17:33.017Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-on-jerusalem-bread",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:17:34.275Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:17:34.310Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "ribeye-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:17:35.649Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:17:35.683Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-with-fried-veggies",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:17:37.502Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:17:37.568Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "ribeye-pita",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:17:39.789Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:17:39.820Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-on-jerusalem-bread",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:17:50.432Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:17:50.472Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:17:59.569Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:17:59.602Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:20:12.939Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:20:12.978Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:23:55.176Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:23:55.273Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:23:57.387Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:23:57.424Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "falafel-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:37:52.179Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:37:52.632Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "premium-family-pack",
+      "category": "Dinner",
+      "timestamp": "2025-05-18T03:37:55.563Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:37:55.599Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "hibiscus-lemonade",
+      "category": "Drinks",
+      "timestamp": "2025-05-18T03:37:58.402Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:37:58.439Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "peach-crumble",
+      "category": "Drinks",
+      "timestamp": "2025-05-18T03:38:00.306Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:38:00.336Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "rice-pudding",
+      "category": "Drinks",
+      "timestamp": "2025-05-18T03:38:02.262Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:38:02.295Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "fettah-with-ribeye",
+      "category": "Appetizers",
+      "timestamp": "2025-05-18T03:38:10.280Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:38:10.315Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "chicken-bowl",
+      "category": "Lunch",
+      "timestamp": "2025-05-18T03:38:12.936Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:38:12.964Z"
+    },
+    {
+      "eventType": "item_click",
+      "sessionId": "mv_833uu0vq9wq1wm25tvxjs8_1747538249759",
+      "restaurantId": "sababa-falafel",
+      "itemId": "premium-family-pack",
+      "category": "Dinner",
+      "timestamp": "2025-05-18T03:38:15.740Z",
+      "viewCount": 0,
+      "totalViewTime": 0,
+      "averageViewTime": 0,
+      "sequencePosition": 0,
+      "storedAt": "2025-05-18T03:38:15.773Z"
+    }
+  ]
+}
